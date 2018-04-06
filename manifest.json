@@ -1,8 +1,8 @@
 {
   "name": "Notas",
   "short_name": "Notas",
-  "theme_color": "#fbfbfb",
-  "background_color": "#000000",
+  "theme_color": "#f9e709",
+  "background_color": "#e21d41",
   "display": "standalone",
   "orientation": "portrait",
   "Scope": "/",

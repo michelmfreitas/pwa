@@ -1,4 +1,4 @@
-let cacheName = "notas-son.v.1.0.7";
+let cacheName = "notas-son.v.1.0.8";
 let filesToCache = [
   "./",
   "./index.html",
