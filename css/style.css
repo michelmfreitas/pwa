@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,600,700");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  border: 0;
+  background: transparent;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+}
+
+header {
+  background: #333;
+  padding: 15px;
+}
+
+header h1 {
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+.frmNota {
+  background: #f4f4f4;
+  margin: 15px;
+  padding: 15px 0;
+}
+
+.frmNota form {
+  width: 100%;
+}
+
+#listaNotas {
+  width: 100%;
+  margin: 15px;
+  list-style: none;
+}
+
+#listaNotas li {
+  border-bottom: 1px dotted #cccccc;
+  padding: 5px 0;
+}
+
+#listaNotas li span {
+  float: right;
+  cursor: pointer;
+  color: red;
+}
