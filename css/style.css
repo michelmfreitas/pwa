@@ -50,3 +50,9 @@ header h1 {
   cursor: pointer;
   color: red;
 }
+
+.btn-block {
+    font-size: 30px;
+    line-height: 24px;
+    font-weight: 700;
+}
